@@ -1,16 +1,50 @@
 ## Hi there 👋
+# I'm Junior Front-end Developer
+<img src="assets/avatar.jpg" width="200">
 
-<!--
-**dzichonka/dzichonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## my name is Anna Vasilevich
+---
+### Contacts
+- **e-mail:** anna.vasilevich.pl@gmail.com
+---
+### About Me
 
-Here are some ideas to get you started:
+Looking for junior Front-end developer position that will allow to demonstrate and broaden my intellectual and technical capabilities in the field of IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope that my tech and soft skills acquied during my education and work experience will come in handy here as well.
+
+Now I am improving my English, reading a lot about Front-end, expanding my technical horizons.
+
+Ready to work, learning and grow.
+
+#### My strengths:
+
+- Creative thinking
+- Flexibility
+- Friendly
+- Active listener
+- Motivated
+- Critical thinking
+- Analytical skills
+
+---
+
+### Skills
+
+- HTML
+- CSS
+- JavaScript
+- GIT
+- Gulp
+- MySQL
+- IT Essentials
+- Photoshop
+
+---
+
+### Languages
+
+- **Russian** - native speaker
+- **Belarusian** - native speaker
+- **English** - B1
+- **Polish** - B1
