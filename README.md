@@ -1,6 +1,5 @@
 ## Hi there 👋
 # I'm Junior Front-end Developer
-<img src="assets/avatar.jpg" width="200">
 
 ## my name is Anna Vasilevich
 ---
