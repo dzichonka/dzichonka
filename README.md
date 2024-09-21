@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Junior Front-end Developer
 
-## my name is Anna Vasilevich
+## Anna Vasilevich
 ---
 ### Contacts
 - **e-mail:** anna.vasilevich.pl@gmail.com
@@ -16,6 +16,26 @@ Now I am improving my English, reading a lot about Front-end, expanding my techn
 
 Ready to work, learning and grow.
 
+---
+
+### [List of my projects](https://dzichonka.github.io/portfolio/)
+
+---
+
+### Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- GIT
+- Webpack
+- Gulp
+- MySQL
+- IT Essentials
+
+---
+
 #### My strengths:
 
 - Creative thinking
@@ -25,19 +45,6 @@ Ready to work, learning and grow.
 - Motivated
 - Critical thinking
 - Analytical skills
-
----
-
-### Skills
-
-- HTML
-- CSS
-- JavaScript
-- GIT
-- Gulp
-- MySQL
-- IT Essentials
-- Photoshop
 
 ---
 
