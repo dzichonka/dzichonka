@@ -18,7 +18,7 @@ Ready to work, learning and grow.
 
 ---
 
-### [List of my projects](https://dzichonka.github.io/portfolio/)
+### [List of my projects](https://dzichonka.github.io/)
 
 ---
 
