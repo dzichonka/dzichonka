@@ -34,10 +34,11 @@ Ready to work, learning and grow.
 ![Gulp](https://img.shields.io/badge/Gulp-e82063?style=plastic&logo=gulp&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-7148A2?style=plastic&logo=redux&logoColor=white)
 
-
 ### Languages
 
 - **Russian** - native speaker
 - **Belarusian** - native speaker
 - **English** - B1
 - **Polish** - B1
+
+### [<img src="https://img.shields.io/badge/_My CV_link_-F5E917?style=for-the-badge">](https://dzichonka.github.io/CV-Frontend-Anna-Vasilevich.pdf)
