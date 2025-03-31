@@ -14,14 +14,16 @@ I hope that my tech and soft skills acquied during my education and work experie
 Now I am improving my English, reading a lot about Front-end, expanding my technical horizons.
 Ready to work, learning and grow.
 
-### [<img src="https://img.shields.io/badge/_>>>_Here_is_list_of_my_projects_<<<_-3fc230?style=for-the-badge">](https://dzichonka.github.io/)
+### [<img src="https://img.shields.io/badge/_List_of_my_projects_-73A281?style=for-the-badge">](https://dzichonka.github.io/)
+
+### [<img src="https://img.shields.io/badge/_My certificates_-6C9AA2?style=for-the-badge">](https://dzichonka.github.io/certificates/)
 
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-c90411?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1f87ff?style=plastic&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SCSS-e82063?style=plastic&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-e82063?style=plastic&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=plastic&logo=react&logoColor=%252361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
@@ -30,6 +32,8 @@ Ready to work, learning and grow.
 ![NodeJS](https://img.shields.io/badge/node.js-3a8c46?style=plastic&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-13339e?style=plastic&logo=mysql&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-e82063?style=plastic&logo=gulp&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-7148A2?style=plastic&logo=redux&logoColor=white)
+
 
 ### Languages
 
