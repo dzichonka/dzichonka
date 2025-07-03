@@ -9,7 +9,7 @@
 
 ### About Me
 
-Looking for junior Front-end developer position that will allow to demonstrate and broaden my intellectual and technical capabilities in the field of IT.
+Looking for Front-end developer position that will allow to demonstrate and broaden my intellectual and technical capabilities in the field of IT.
 I hope that my tech and soft skills acquied during my education and work experience will come in handy here as well.
 Now I am improving my English, reading a lot about Front-end, expanding my technical horizons.
 Ready to work, learning and grow.
@@ -38,7 +38,7 @@ Ready to work, learning and grow.
 
 - **Russian** - native speaker
 - **Belarusian** - native speaker
-- **English** - B1
+- **English** - B2
 - **Polish** - B1
 
 ### [<img src="https://img.shields.io/badge/_My CV_link_-F5E917?style=for-the-badge">](https://dzichonka.github.io/CV-Frontend-Anna-Vasilevich.pdf)
