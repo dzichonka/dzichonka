@@ -9,7 +9,7 @@
 
 ### About Me
 
-Front-end developer who loves React and Next.js :blue_heart: I like reading code, writing code, and sometimes reviewing other people’s code too. Always happy to collaborate, share ideas, or try out something new. Check out my projects: suggestions and collabs are welcome!
+Front-end developer who loves React and Next.js :blue_heart: as well as Angular :pink_heart: I like reading code, writing code, and sometimes reviewing other people’s code too. Always happy to collaborate, share ideas, or try out something new. Check out my projects: suggestions and collabs are welcome!
 
 ### [<img src="https://img.shields.io/badge/_List_of_my_projects_-73A281?style=for-the-badge">](https://dzichonka.github.io/)
 
@@ -19,19 +19,16 @@ Front-end developer who loves React and Next.js :blue_heart: I like reading code
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-c90411?style=plastic&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-e82063?style=plastic&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=plastic&logo=react&logoColor=%231DA1F2)
+![React](https://img.shields.io/badge/React-%231DA1F2?style=plastic&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-e82063?style=plastic&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-f7260a?style=plastic&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-3a8c46?style=plastic&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-13339e?style=plastic&logo=mysql&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-e82063?style=plastic&logo=gulp&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-7148A2?style=plastic&logo=redux&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-000000?style=plastic&logo=vitest&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-e82063?style=plastic&logo=sass&logoColor=white)
 
 ### Languages
 
